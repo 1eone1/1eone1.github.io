@@ -1,5 +1,9 @@
 body {
     background-color:cadetblue;
-    font: Arial;
+    font-family: Arial;
     font-size: 20px;
+}
+
+p {
+    color:lightcoral;
 }
