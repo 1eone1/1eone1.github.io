@@ -1,9 +1,13 @@
 body {
-    background-color:cadetblue;
+    background-color:cornflowerblue;
     font-family: Arial;
     font-size: 18px;
 }
 
 p {
-    color:lightcoral;
+    color:indianred;
+}
+
+#list {
+    color:indianred;
 }
