@@ -18,10 +18,7 @@ p {
     text-align: center;
 }
 
-#TODOlist {
-    color:firebrick;
-}
-
-#linksList {
+#list {
+    display:inline-block;
     color:firebrick;
 }
