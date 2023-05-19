@@ -1,13 +1,17 @@
 body {
     background-color:cornflowerblue;
-    font-family: Arial;
+    font-family: Optima, Verdana, Arial;
     font-size: 18px;
 }
 
 p {
-    color:indianred;
+    color:firebrick;
 }
 
-#list {
-    color:indianred;
+#TODOlist {
+    color:firebrick;
+}
+
+#linksList{
+    color:firebrick;
 }
