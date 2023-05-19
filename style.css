@@ -18,7 +18,17 @@ p {
     text-align: center;
 }
 
-#list {
-    display:inline-block;
+.listContainer{
+    display:flex;
     color:firebrick;
+}
+
+.list{
+    flex: 1;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
