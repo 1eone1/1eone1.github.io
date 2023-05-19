@@ -8,10 +8,16 @@ p {
     color:firebrick;
 }
 
+#welcome {
+    text-shadow: 1px 1px 1px white, 2px 2px 1px white;
+    text-align: center;
+}
+
 #TODOlist {
     color:firebrick;
 }
 
 #linksList{
+    text-align: right;
     color:firebrick;
 }
